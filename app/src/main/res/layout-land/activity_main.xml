@@ -31,8 +31,8 @@
         android:forceHasOverlappingRendering="false"
         android:textColor="#ffffff"
         android:elegantTextHeight="false"
-        android:layout_marginTop="43dp"
         android:textSize="@dimen/btn_text"
+        android:layout_marginTop="29dp"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 
