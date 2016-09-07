@@ -26,12 +26,14 @@
         android:text="@string/btn_name"
         android:id="@+id/button"
         android:backgroundTint="#38a9ff"
-        android:clickable="false"
+        android:clickable="true"
         android:contextClickable="false"
         android:forceHasOverlappingRendering="false"
         android:textColor="#ffffff"
         android:elegantTextHeight="false"
+        android:layout_marginTop="43dp"
+        android:textSize="@dimen/btn_text"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="26dp" />
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
